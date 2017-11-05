@@ -1,0 +1,16 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.floor{
+  fill: #999999;
+}
+
+.floor:hover {
+  fill: #555555;
+}
+
+.floor_room {
+  fill: #999999;
+}
